@@ -23,7 +23,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Screenshot
 
-![Design preview for the QR Component coding challenge](https://github.com/Orisabiyi/qr-component-code/blob/main/design/desktop-preview.jpg)
+![Design preview for the 3-Column Card  Component coding challenge](https://github.com/brycezubi/Three-Column-Preview-Card/blob/main/images/desktop-preview%20(2).jpg)
 
 ### Links
 
